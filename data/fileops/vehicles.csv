@@ -1,0 +1,4 @@
+type,wheels,speed,weight,invented
+Scooter,2,150,109.78,1817
+Car,4,250,1818.45,1885
+Plane,10,850,270000,1903
