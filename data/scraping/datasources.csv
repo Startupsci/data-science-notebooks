@@ -1,0 +1,415 @@
+name,about,category_id,link
+U.S. Department of,U.S. Department of Agriculture's PLANTS Database,Agriculture,http://www.plants.usda.gov/dl_all.html
+1000 Genomes,1000 Genomes,Biology,http://www.1000genomes.org/data
+Microbiome Project,American Gut (Microbiome Project),Biology,https://github.com/biocore/American-Gut
+CCLE,Broad Cancer Cell Line Encyclopedia (CCLE),Biology,http://www.broadinstitute.org/ccle/home
+BBBC,Broad Bioimage Benchmark Collection (BBBC),Biology,https://www.broadinstitute.org/bbbc
+Cell Image Library,Cell Image Library,Biology,http://www.cellimagelibrary.org
+Complete Genomics Public Data,Complete Genomics Public Data,Biology,http://www.completegenomics.com/public-data/69-genomes/
+EBI ArrayExpress,EBI ArrayExpress,Biology,http://www.ebi.ac.uk/arrayexpress/
+EBI Protein Data,EBI Protein Data Bank in Europe,Biology,http://www.ebi.ac.uk/pdbe/emdb/index.html/
+EMPIAR,Electron Microscopy Pilot Image Archive (EMPIAR),Biology,http://www.ebi.ac.uk/pdbe/emdb/empiar/
+ENCODE project,ENCODE project,Biology,https://www.encodeproject.org
+Ensembl Genomes,Ensembl Genomes,Biology,http://ensemblgenomes.org/info/genomes
+GEO,Gene Expression Omnibus (GEO),Biology,http://www.ncbi.nlm.nih.gov/geo/
+GO,Gene Ontology (GO),Biology,http://geneontology.org/page/download-annotations
+GloBI,Global Biotic Interactions (GloBI),Biology,https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data
+HMS,Harvard Medical School (HMS) LINCS Project,Biology,http://lincs.hms.harvard.edu
+Human Genome Diversity Project,Human Genome Diversity Project,Biology,http://www.hagsc.org/hgdp/files.html
+HMP,Human Microbiome Project (HMP),Biology,http://www.hmpdacc.org/reference_genomes/reference_genomes.php
+ICOS PSP Benchmark,ICOS PSP Benchmark,Biology,http://ico2s.org/datasets/psp_benchmark.html
+International HapMap Project,International HapMap Project,Biology,http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en
+Journal of Cell,Journal of Cell Biology DataViewer,Biology,http://jcb-dataviewer.rupress.org
+MIT Cancer Genomics Data,MIT Cancer Genomics Data,Biology,http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi
+NCBI Proteins,NCBI Proteins,Biology,http://www.ncbi.nlm.nih.gov/guide/proteins/#databases
+NCBI Taxonomy,NCBI Taxonomy,Biology,http://www.ncbi.nlm.nih.gov/taxonomy
+,,Biology,http://bit.do/VVW6
+OpenSNP genotypes data,OpenSNP genotypes data,Biology,https://opensnp.org/
+Pathguid,Pathguid - Protein-Protein Interactions Catalog,Biology,http://www.pathguide.org/
+Protein Data Bank,Protein Data Bank,Biology,http://www.rcsb.org/
+Psychiatric Genomics Consortium,Psychiatric Genomics Consortium,Biology,https://www.med.unc.edu/pgc/downloads
+PubChem Project,PubChem Project,Biology,https://pubchem.ncbi.nlm.nih.gov/
+now Coremine Medical,PubGene (now Coremine Medical),Biology,http://www.pubgene.org/
+COSMIC,Sanger Catalogue of Somatic Mutations in Cancer (COSMIC),Biology,http://cancer.sanger.ac.uk/cosmic
+GDSC,Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC),Biology,http://www.cancerrxgene.org/
+SRA,Sequence Read Archive(SRA),Biology,http://www.ncbi.nlm.nih.gov/Traces/sra/
+Stanford Microarray Data,Stanford Microarray Data,Biology,http://smd.stanford.edu/
+Stowers Institute Original,Stowers Institute Original Data Repository,Biology,http://www.stowers.org/research/publications/odr
+SSBD,Systems Science of Biological Dynamics (SSBD) Database,Biology,http://ssbd.qbic.riken.jp
+TCGA,"The Cancer Genome Atlas (TCGA), available via Broad GDAC",Biology,https://gdac.broadinstitute.org/
+The Catalogue of Life,The Catalogue of Life,Biology,http://www.catalogueoflife.org/content/annual-checklist-archive
+,,Biology,http://www.personalgenomes.org/
+UCSC Public Data,UCSC Public Data,Biology,http://hgdownload.soe.ucsc.edu/downloads.html
+UnitProt,Universal Protein Resource (UnitProt),Biology,http://www.uniprot.org/downloads
+UniGene,UniGene,Biology,http://www.ncbi.nlm.nih.gov/unigene
+Australian Weather,Australian Weather,Climate/Weather,http://www.bom.gov.au/climate/dwo/
+Aviation Weather Center,"Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system",Climate/Weather,https://aviationweather.gov/adds/dataserver
+In Portuguese,Brazilian Weather - Historical data (In Portuguese),Climate/Weather,http://sinda.crn2.inpe.br/PCD/SITE/novo/site/
+Canadian Meteorological Centre,Canadian Meteorological Centre,Climate/Weather,http://weather.gc.ca/grib/index_e.html
+updated monthly,Climate Data from UEA (updated monthly),Climate/Weather,https://crudata.uea.ac.uk/cru/data/temperature/#datterandftp://ftp.cmdl.noaa.gov/
+European Climate Assessment,European Climate Assessment & Dataset,Climate/Weather,http://eca.knmi.nl/
+Global Climate Data,Global Climate Data Since 1929,Climate/Weather,http://en.tutiempo.net/climate
+NASA Global Imagery,NASA Global Imagery Browse Services,Climate/Weather,https://wiki.earthdata.nasa.gov/display/GIBS
+NOAA Bering Sea Climate,NOAA Bering Sea Climate,Climate/Weather,http://www.beringclimate.noaa.gov/
+NOAA Climate Datasets,NOAA Climate Datasets,Climate/Weather,http://www.ncdc.noaa.gov/data-access/quick-links
+NOAA Realtime Weather Models,NOAA Realtime Weather Models,Climate/Weather,http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction
+The World Bank,The World Bank Open Data Resources for Climate Change,Climate/Weather,http://data.worldbank.org/developers/climate-data-api
+UEA Climatic Research Unit,UEA Climatic Research Unit,Climate/Weather,http://www.cru.uea.ac.uk/data
+WorldClim,WorldClim - Global Climate Data,Climate/Weather,http://www.worldclim.org
+WU Historical Weather Worldwide,WU Historical Weather Worldwide,Climate/Weather,https://www.wunderground.com/history/index.html
+AMiner Citation Network Dataset,AMiner Citation Network Dataset,Complex Networks,http://aminer.org/citation
+CrossRef DOI URLs,CrossRef DOI URLs,Complex Networks,https://archive.org/details/doi-urls
+DBLP Citation dataset,DBLP Citation dataset,Complex Networks,https://kdl.cs.umass.edu/display/public/DBLP
+NBER Patent Citations,NBER Patent Citations,Complex Networks,http://nber.org/patents/
+Network Repository with,Network Repository with Interactive Exploratory Analysis Tools,Complex Networks,http://networkrepository.com/
+NIST complex networks,NIST complex networks data collection,Complex Networks,http://math.nist.gov/~RPozo/complex_datasets.html
+Protein-protein interaction network,Protein-protein interaction network,Complex Networks,http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm
+PyPI and Maven,PyPI and Maven Dependency Network,Complex Networks,https://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/
+Scopus Citation Database,Scopus Citation Database,Complex Networks,https://www.elsevier.com/solutions/scopus
+Small Network Data,Small Network Data,Complex Networks,http://www-personal.umich.edu/~mejn/netdata/
+Steven Skiena,Stanford GraphBase (Steven Skiena),Complex Networks,http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml
+Stanford Large Network,Stanford Large Network Dataset Collection,Complex Networks,http://snap.stanford.edu/data/
+Stanford Longitudinal Network,Stanford Longitudinal Network Data Sources,Complex Networks,http://stanford.edu/group/sonia/dataSources/index.html
+The Koblenz Network Collection,The Koblenz Network Collection,Complex Networks,http://konect.uni-koblenz.de/
+UNIMI,The Laboratory for Web Algorithmics (UNIMI),Complex Networks,http://law.di.unimi.it/datasets.php
+The Nexus Network Repository,The Nexus Network Repository,Complex Networks,http://nexus.igraph.org/
+UCI Network Data Repository,UCI Network Data Repository,Complex Networks,https://networkdata.ics.uci.edu/resources.php
+UFL sparse matrix collection,UFL sparse matrix collection,Complex Networks,http://www.cise.ufl.edu/research/sparse/matrices/
+WSU Graph Database,WSU Graph Database,Complex Networks,http://www.eecs.wsu.edu/mgd/gdb.html
+DIMACS Road Networks Collection,DIMACS Road Networks Collection,Complex Networks,http://www.dis.uniroma1.it/challenge9/download.shtml
+3.5B Web Pages,3.5B Web Pages from CommonCraw 2012,Computer Networks,http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us
+53.5B Web clicks,53.5B Web clicks of 100K users in Indiana Univ.,Computer Networks,http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/
+CAIDA Internet Datasets,CAIDA Internet Datasets,Computer Networks,http://www.caida.org/data/overview/
+ClueWeb09,ClueWeb09 - 1B web pages,Computer Networks,http://lemurproject.org/clueweb09/
+ClueWeb12,ClueWeb12 - 733M web pages,Computer Networks,http://lemurproject.org/clueweb12/
+CommonCrawl Web Data,CommonCrawl Web Data over 7 years,Computer Networks,http://commoncrawl.org/the-data/get-started/
+CRAWDAD Wireless datasets,CRAWDAD Wireless datasets from Dartmouth Univ.,Computer Networks,https://crawdad.cs.dartmouth.edu/
+Criteo click-through data,Criteo click-through data,Computer Networks,http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/
+Open Mobile Data,Open Mobile Data by MobiPerf,Computer Networks,https://console.developers.google.com/storage/openmobiledata_public/
+Rapid7 Sonar Internet Scans,Rapid7 Sonar Internet Scans,Computer Networks,https://sonar.labs.rapid7.com/
+"UCSD Network Telescope,","UCSD Network Telescope, IPv4 /8 net",Computer Networks,http://www.caida.org/projects/network_telescope/
+,,Contextual Data,http://students.depaul.edu/~yzheng8/DataSets.html#Data
+Challenges in Machine Learning,Challenges in Machine Learning,Data Challenges,http://www.chalearn.org/
+CrowdANALYTIX dataX,CrowdANALYTIX dataX,Data Challenges,http://data.crowdanalytix.com
+D4D Challenge of Orange,D4D Challenge of Orange,Data Challenges,http://www.d4d.orange.com/en/home
+DrivenData Competitions for,DrivenData Competitions for Social Good,Data Challenges,http://www.drivendata.org/
+since 2009,ICWSM Data Challenge (since 2009),Data Challenges,http://icwsm.cs.umbc.edu/
+Kaggle Competition Data,Kaggle Competition Data,Data Challenges,https://www.kaggle.com/
+KDD Cup by,KDD Cup by Tencent 2012,Data Challenges,http://www.kddcup2012.org/
+Localytics Data Visualization Challenge,Localytics Data Visualization Challenge,Data Challenges,https://github.com/localytics/data-viz-challenge
+Netflix Prize,Netflix Prize,Data Challenges,http://netflixprize.com/leaderboard.html
+Space Apps Challenge,Space Apps Challenge,Data Challenges,https://2015.spaceappschallenge.org
+Telecom Italia Big,Telecom Italia Big Data Challenge,Data Challenges,https://dandelion.eu/datamine/open-big-data/
+Yelp Dataset Challenge,Yelp Dataset Challenge,Data Challenges,http://www.yelp.com/dataset_challenge
+Bruteforce Database,Bruteforce Database,Data Challenges,https://github.com/duyetdev/bruteforce-database
+AQUASTAT,AQUASTAT - Global water resources and uses,Earth Science,http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en
+BODC,BODC - marine data of ~22K vars,Earth Science,http://www.bodc.ac.uk/data/where_to_find_data/
+Earth Models,Earth Models,Earth Science,http://www.earthmodels.org/
+EOSDIS,EOSDIS - NASA's earth observing system data,Earth Science,http://sedac.ciesin.columbia.edu/data/sets/browse
+,,Earth Science,https://imos.aodn.org.au
+Marinexplore,Marinexplore - Open Oceanographic Data,Earth Science,http://marinexplore.org/
+Smithsonian Institution Global,Smithsonian Institution Global Volcano and Eruption Database,Earth Science,http://volcano.si.edu/
+USGS Earthquake Archives,USGS Earthquake Archives,Earth Science,http://earthquake.usgs.gov/earthquakes/search/
+AEA,American Economic Association (AEA),Economics,https://www.aeaweb.org/resources/data
+EconData from UMD,EconData from UMD,Economics,http://inforumweb.umd.edu/econdata/econdata.html
+Economic Freedom of,Economic Freedom of the World Data,Economics,http://www.freetheworld.com/datasets_efw.html
+Historical MacroEconomc Statistics,Historical MacroEconomc Statistics,Economics,http://www.historicalstatistics.org/
+,,Economics,http://widukind.cepremap.org/
+International Trade Statistics,International Trade Statistics,Economics,http://www.econostatistics.co.za/
+Internet Product Code Database,Internet Product Code Database,Economics,http://www.upcdatabase.com/
+Joint External Debt,Joint External Debt Data Hub,Economics,http://www.jedh.org/
+Jon Haveman International,Jon Haveman International Trade Data Links,Economics,http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html
+OpenCorporates Database of,OpenCorporates Database of Companies in the World,Economics,https://opencorporates.com/
+Our World in Data,Our World in Data,Economics,http://ourworldindata.org/
+SciencesPo World Trade,SciencesPo World Trade Gravity Datasets,Economics,http://econ.sciences-po.fr/thierry-mayer/data
+The Atlas of,The Atlas of Economic Complexity,Economics,http://atlas.cid.harvard.edu
+The Center for,The Center for International Data,Economics,http://cid.econ.ucdavis.edu
+The Observatory of,The Observatory of Economic Complexity,Economics,http://atlas.media.mit.edu/en/
+UN Commodity Trade Statistics,UN Commodity Trade Statistics,Economics,http://comtrade.un.org/db/
+UN Human Development Reports,UN Human Development Reports,Economics,http://hdr.undp.org/en
+Student Data from,Student Data from Free Code Camp,Education,http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf
+AMPds,AMPds,Energy,http://ampds.org/
+BLUEd,BLUEd,Energy,http://nilm.cmubi.org/
+COMBED,COMBED,Energy,http://combed.github.io/
+Dataport,Dataport,Energy,https://dataport.pecanstreet.org/
+DRED,DRED,Energy,http://www.st.ewi.tudelft.nl/~akshay/dred/
+ECO,ECO,Energy,http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+EIA,EIA,Energy,http://www.eia.gov/electricity/data/eia923/
+,,Energy,http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description
+HFED,HFED,Energy,http://hfed.github.io/
+iAWE,iAWE,Energy,http://iawe.github.io/
+,,Energy,http://plaidplug.com/
+REDD,REDD,Energy,http://redd.csail.mit.edu/
+Tracebase,Tracebase,Energy,https://www.tracebase.org
+,,Energy,http://www.doc.ic.ac.uk/~dk3810/data/
+WHITED,WHITED,Energy,http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf
+CBOE Futures Exchange,CBOE Futures Exchange,Finance,http://cfe.cboe.com/Data/
+Google Finance,Google Finance,Finance,https://www.google.com/finance
+Google Trends,Google Trends,Finance,http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
+NASDAQ,NASDAQ,Finance,https://data.nasdaq.com/
+OANDA,OANDA,Finance,http://www.oanda.com/
+OSU Financial data,OSU Financial data,Finance,http://fisher.osu.edu/fin/fdf/osudata.htm
+Quandl,Quandl,Finance,https://www.quandl.com/
+St Louis Federal,St Louis Federal,Finance,https://research.stlouisfed.org/fred2/
+Yahoo Finance,Yahoo Finance,Finance,http://finance.yahoo.com/
+,,Finance,https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst
+"Cambridge, MA, US,","Cambridge, MA, US, GIS data on GitHub",GIS,http://cambridgegis.github.io/gisdata.html
+Factual Global Location Data,Factual Global Location Data,GIS,https://www.factual.com/
+Geo Spatial Data,Geo Spatial Data from ASU,GIS,http://geodacenter.asu.edu/datalist/
+Geo Wiki Project,Geo Wiki Project - Citizen-driven Environmental Monitoring,GIS,http://geo-wiki.org/
+GeoFabrik,GeoFabrik - OSM data extracted to a variety of formats and areas,GIS,http://download.geofabrik.de/
+GeoNames Worldwide,GeoNames Worldwide,GIS,http://www.geonames.org/
+GADM,Global Administrative Areas Database (GADM),GIS,http://www.gadm.org/
+Homeland Infrastructure Foundation-Level Data,Homeland Infrastructure Foundation-Level Data,GIS,https://hifld-dhs-gii.opendata.arcgis.com/
+Landsat 8 on AWS,Landsat 8 on AWS,GIS,https://aws.amazon.com/public-data-sets/landsat/
+List of all,List of all countries in all languages,GIS,https://github.com/umpirsky/country-list
+National Weather Service,National Weather Service GIS Data Portal,GIS,http://www.nws.noaa.gov/gis/
+Natural Earth,Natural Earth - vectors and rasters of the world,GIS,http://www.naturalearthdata.com/
+OpenAddresses,OpenAddresses,GIS,http://openaddresses.io/
+OSM,OpenStreetMap (OSM),GIS,http://wiki.openstreetmap.org/wiki/Downloading_data
+Pleiades,Pleiades - Gazetteer and graph of ancient places,GIS,http://pleiades.stoa.org/
+,,GIS,https://github.com/kno10/reversegeocode
+TIGER/Line,TIGER/Line - U.S. boundaries and roads,GIS,http://www.census.gov/geo/maps-data/data/tiger-line.html
+TwoFishes,TwoFishes - Foursquare's coarse geocoder,GIS,https://github.com/foursquare/twofishes
+TZ Timezones shapfiles,TZ Timezones shapfiles,GIS,http://efele.net/maps/tz/world/
+UN Environmental Data,UN Environmental Data,GIS,http://geodata.grid.unep.ch/
+World boundaries from,World boundaries from  the U.S. Department of State,GIS,https://hiu.state.gov/data/data.aspx
+World countries in,World countries in multiple formats,GIS,https://github.com/mledoze/countries
+OpenDataSoft's list of,"OpenDataSoft's list of 1,600 open data portals",Government,https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/
+A list of,A list of cities and countries contributed by community,Government,https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst
+EHDP Large Health,EHDP Large Health Data Sets,Healthcare,http://www.ehdp.com/vitalnet/datasets.htm
+Gapminder World demographic databases,Gapminder World demographic databases,Healthcare,http://www.gapminder.org/data/
+MCD,"Medicare Coverage Database (MCD), U.S.",Healthcare,https://www.cms.gov/medicare-coverage-database/
+Medicare Data Engine,Medicare Data Engine of medicare.gov Data,Healthcare,https://data.medicare.gov/
+Medicare Data File,Medicare Data File,Healthcare,http://go.cms.gov/19xxPN4
+"MeSH, the vocabulary","MeSH, the vocabulary thesaurus used for indexing articles for PubMed",Healthcare,https://www.nlm.nih.gov/mesh/filelist.html
+Number of Ebola,Number of Ebola Cases and Deaths in Affected Countries (2014),Healthcare,https://data.hdx.rwlabs.org/dataset/ebola-cases-2014
+structure of the UK NHS,Open-ODS (structure of the UK NHS),Healthcare,http://www.openods.co.uk
+"OpenPaymentsData, Healthcare financial","OpenPaymentsData, Healthcare financial relationship data",Healthcare,https://openpaymentsdata.cms.gov
+,,Healthcare,https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp
+World Health Organization,World Health Organization Global Health Observatory,Healthcare,http://www.who.int/gho/en/
+10k US Adult,10k US Adult Faces Database,Image Processing,http://wilmabainbridge.com/facememorability2.html
+,,Image Processing,http://137.189.35.203/WebUI/CatDatabase/catData.html
+Affective Image Classification,Affective Image Classification,Image Processing,http://www.imageemotion.org/
+Animals with attributes,Animals with attributes,Image Processing,http://attributes.kyb.tuebingen.mpg.de/
+Face Recognition Benchmark,Face Recognition Benchmark,Image Processing,http://www.face-rec.org/databases/
+in WordNet hierarchy,ImageNet (in WordNet hierarchy),Image Processing,http://www.image-net.org/
+Indoor Scene Recognition,Indoor Scene Recognition,Image Processing,http://web.mit.edu/torralba/www/indoor.html
+International Affective Picture,"International Affective Picture System, UFL",Image Processing,http://csea.phhp.ufl.edu/media/iapsmessage.html
+Massive Visual Memory,"Massive Visual Memory Stimuli, MIT",Image Processing,http://cvcl.mit.edu/MM/stimuli.html
+Several Shape-from-Silhouette Datasets,Several Shape-from-Silhouette Datasets,Image Processing,http://kaiwolf.no-ip.org/3d-model-repository.html
+Stanford Dogs Dataset,Stanford Dogs Dataset,Image Processing,http://vision.stanford.edu/aditya86/ImageNetDogs/
+"SUN database, MIT","SUN database, MIT",Image Processing,http://groups.csail.mit.edu/vision/SUN/hierarchy.html
+The Oxford-IIIT Pet Dataset,The Oxford-IIIT Pet Dataset,Image Processing,http://www.robots.ox.ac.uk/~vgg/data/pets/
+YouTube Faces Database,YouTube Faces Database,Image Processing,http://www.cs.tau.ac.il/~wolf/ytfaces/
+Adience Unfiltered faces,Adience Unfiltered faces for gender and age classification,Image Processing,http://www.openu.ac.il/home/hassner/Adience/data.html
+ASLAN,The Action Similarity Labeling (ASLAN) Challenge,Image Processing,http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html
+Violent-Flows,Violent-Flows - Crowd Violence Non-violence Database and benchmark,Image Processing,http://www.openu.ac.il/home/hassner/data/violentflows/
+Univ. of Toronto,Delve Datasets for classification and regression (Univ. of Toronto),Machine Learning,http://www.cs.toronto.edu/~delve/data/datasets.html
+Discogs Monthly Data,Discogs Monthly Data,Machine Learning,http://data.discogs.com/
+eBay Online Auctions (2012),eBay Online Auctions (2012),Machine Learning,http://www.modelingonlineauctions.com/datasets
+IMDb Database,IMDb Database,Machine Learning,http://www.imdb.com/interfaces
+Keel Repository for,"Keel Repository for classification, regression and time series",Machine Learning,http://sci2s.ugr.es/keel/datasets.php
+LFW,Labeled Faces in the Wild (LFW),Machine Learning,http://vis-www.cs.umass.edu/lfw/
+Lending Club Loan Data,Lending Club Loan Data,Machine Learning,https://www.lendingclub.com/info/download-data.action
+Machine Learning Data,Machine Learning Data Set Repository,Machine Learning,http://mldata.org/
+Million Song Dataset,Million Song Dataset,Machine Learning,http://labrosa.ee.columbia.edu/millionsong/
+More Song Datasets,More Song Datasets,Machine Learning,http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets
+New Yorker caption,New Yorker caption contest ratings,Machine Learning,https://github.com/nextml/caption-contest-data
+MovieLens Data Sets,MovieLens Data Sets,Machine Learning,http://grouplens.org/datasets/movielens/
+RDataMining,"RDataMining - ""R and Data Mining"" ebook data",Machine Learning,http://www.rdatamining.com/data
+Registered Meteorites on Earth,Registered Meteorites on Earth,Machine Learning,http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized
+Restaurants Health Score,Restaurants Health Score Data in San Francisco,Machine Learning,http://missionlocal.org/san-francisco-restaurant-health-inspections/
+UCI Machine Learning Repository,UCI Machine Learning Repository,Machine Learning,http://archive.ics.uci.edu/ml/
+Yahoo! Ratings and,Yahoo! Ratings and Classification Data,Machine Learning,http://webscope.sandbox.yahoo.com/catalog.php?datatype=r
+Canada Science and,Canada Science and Technology Museums Corporation's Open Data,Museums,http://techno-science.ca/en/data.php
+Cooper-Hewitt's Collection Database,Cooper-Hewitt's Collection Database,Museums,https://github.com/cooperhewitt/collection
+Minneapolis Institute of,Minneapolis Institute of Arts metadata,Museums,https://github.com/artsmia/collection
+London,Natural History Museum (London) Data Portal,Museums,http://data.nhm.ac.uk/
+Rijksmuseum Historical Art Collection,Rijksmuseum Historical Art Collection,Museums,https://www.rijksmuseum.nl/en/api
+Tate Collection metadata,Tate Collection metadata,Museums,https://github.com/tategallery/collection
+The Getty vocabularies,The Getty vocabularies,Museums,http://vocab.getty.edu
+Blogger Corpus,Blogger Corpus,Natural Language,http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+CLiPS Stylometry Investigation Corpus,CLiPS Stylometry Investigation Corpus,Natural Language,http://www.clips.uantwerpen.be/datasets/csi-corpus
+ClueWeb09 FACC,ClueWeb09 FACC,Natural Language,http://lemurproject.org/clueweb09/FACC1/
+ClueWeb12 FACC,ClueWeb12 FACC,Natural Language,http://lemurproject.org/clueweb12/FACC1/
+DBpedia,DBpedia - 4.58M things with 583M facts,Natural Language,http://wiki.dbpedia.org/Datasets
+Flickr Personal Taxonomies,Flickr Personal Taxonomies,Natural Language,http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html
+"Freebase.com of people,","Freebase.com of people, places, and things",Natural Language,http://www.freebase.com/
+2.2TB,Google Books Ngrams (2.2TB),Natural Language,https://aws.amazon.com/datasets/google-books-ngrams/
+"1TB, 2006","Google Web 5gram (1TB, 2006)",Natural Language,https://catalog.ldc.upenn.edu/LDC2006T13
+Gutenberg eBooks List,Gutenberg eBooks List,Natural Language,http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs
+Hansards text chunks,Hansards text chunks of Canadian Parliament,Natural Language,http://www.isi.edu/natural-language/download/hansard/
+MCTest,Machine Comprehension Test (MCTest) of text from Microsoft Research,Natural Language,http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html
+Machine Translation of,Machine Translation of European languages,Natural Language,http://statmt.org/wmt11/translation-task.html#download
+Personae Corpus,Personae Corpus,Natural Language,http://www.clips.uantwerpen.be/datasets/personae-corpus
+"Arabic, 30K articles","SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles)",Natural Language,https://github.com/ParallelMazen/SaudiNewsNet
+SMS Spam Collection,SMS Spam Collection in English,Natural Language,http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+USENET postings corpus,USENET postings corpus of 2005~2011,Natural Language,http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
+Wikidata,Wikidata - Wikipedia databases,Natural Language,https://www.wikidata.org/wiki/Wikidata:Database_download
+Wikipedia Links data,Wikipedia Links data - 40 Million Entities in Context,Natural Language,https://code.google.com/p/wiki-links/downloads/list
+Universal Dependencies,Universal Dependencies,Natural Language,http://universaldependencies.org
+WordNet databases and tools,WordNet databases and tools,Natural Language,http://wordnet.princeton.edu/wordnet/download/
+Open Multilingual Wordnet,Open Multilingual Wordnet,Natural Language,http://compling.hss.ntu.edu.sg/omw/
+Allen Institute Datasets,Allen Institute Datasets,Neuroscience,http://www.brain-map.org/
+Brain Catalogue,Brain Catalogue,Neuroscience,http://braincatalogue.org/
+Brainomics,Brainomics,Neuroscience,http://brainomics.cea.fr/localizer
+CodeNeuro Datasets,CodeNeuro Datasets,Neuroscience,http://datasets.codeneuro.org/
+CRCNS,Collaborative Research in Computational Neuroscience (CRCNS),Neuroscience,http://crcns.org/data-sets
+FCP-INDI,FCP-INDI,Neuroscience,http://fcon_1000.projects.nitrc.org/index.html
+Human Connectome Project,Human Connectome Project,Neuroscience,http://www.humanconnectome.org/data/
+NDAR,NDAR,Neuroscience,https://ndar.nih.gov/
+NIMH Data Archive,NIMH Data Archive,Neuroscience,http://data-archive.nimh.nih.gov/
+NeuroData,NeuroData,Neuroscience,http://neurodata.io
+OASIS,OASIS,Neuroscience,http://www.oasis-brains.org/
+OpenfMRI,OpenfMRI,Neuroscience,https://openfmri.org/
+Neuroelectro,Neuroelectro,Neuroscience,http://neuroelectro.org/
+Study Forrest,Study Forrest,Neuroscience,http://studyforrest.org
+CERN Open Data Portal,CERN Open Data Portal,Physics,http://opendata.cern.ch/
+Crystallography Open Database,Crystallography Open Database,Physics,http://www.crystallography.net/
+NASA Exoplanet Archive,NASA Exoplanet Archive,Physics,http://exoplanetarchive.ipac.caltech.edu/
+NASA,NSSDC (NASA) data of 550 space spacecraft,Physics,http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
+SDSS,Sloan Digital Sky Survey (SDSS) - Mapping the Universe,Physics,http://www.sdss.org/
+OSU Cognitive Modeling,OSU Cognitive Modeling Repository Datasets,Psychology/Cognition,http://www.cmr.osu.edu/browse/datasets
+Amazon,Amazon,Public Domains,http://aws.amazon.com/datasets/
+Archive-it from Internet Archive,Archive-it from Internet Archive,Public Domains,https://www.archive-it.org/explore?show=Collections
+Archive.org Datasets,Archive.org Datasets,Public Domains,https://archive.org/details/datasets
+CMU JASA data archive,CMU JASA data archive,Public Domains,http://lib.stat.cmu.edu/jasadata/
+CMU StatLab collections,CMU StatLab collections,Public Domains,http://lib.stat.cmu.edu/datasets/
+Data360,Data360,Public Domains,http://www.data360.org/index.aspx
+Datamob.org,Datamob.org,Public Domains,http://datamob.org/datasets
+Google,Google,Public Domains,http://www.google.com/publicdata/directory
+Infochimps,Infochimps,Public Domains,http://www.infochimps.com/
+KDNuggets Data Collections,KDNuggets Data Collections,Public Domains,http://www.kdnuggets.com/datasets/index.html
+Microsoft Azure Data,Microsoft Azure Data Market Free DataSets,Public Domains,http://datamarket.azure.com/browse/data?price=free
+Numbray,Numbray,Public Domains,http://numbrary.com/
+Open Library Data Dumps,Open Library Data Dumps,Public Domains,https://openlibrary.org/developers/dumps
+Reddit Datasets,Reddit Datasets,Public Domains,https://www.reddit.com/r/datasets
+RevolutionAnalytics Collection,RevolutionAnalytics Collection,Public Domains,http://packages.revolutionanalytics.com/datasets/
+Sample R data sets,Sample R data sets,Public Domains,http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html
+Stats4Stem R data sets,Stats4Stem R data sets,Public Domains,http://www.stats4stem.org/data-sets.html
+StatSci.org,StatSci.org,Public Domains,http://www.statsci.org/datasets.html
+The Washington Post List,The Washington Post List,Public Domains,http://www.washingtonpost.com/wp-srv/metro/data/datapost.html
+UCLA SOCR data collection,UCLA SOCR data collection,Public Domains,http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data
+UFO Reports,UFO Reports,Public Domains,http://www.nuforc.org/webreports.html
+Wikileaks 911 pager intercepts,Wikileaks 911 pager intercepts,Public Domains,https://911.wikileaks.org/files/index.html
+Yahoo Webscope,Yahoo Webscope,Public Domains,http://webscope.sandbox.yahoo.com/catalog.php
+Academic Torrents of,Academic Torrents of data sharing from UMB,Search Engines,http://academictorrents.com/
+Datahub.io,Datahub.io,Search Engines,https://datahub.io/dataset
+Qlik,DataMarket (Qlik),Search Engines,https://datamarket.com/data/list/?q=all
+Harvard Dataverse Network,Harvard Dataverse Network of scientific data,Search Engines,https://dataverse.harvard.edu/
+UMICH,ICPSR (UMICH),Search Engines,http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp
+Institute of Education Sciences,Institute of Education Sciences,Search Engines,http://eric.ed.gov
+National Technical Reports Library,National Technical Reports Library,Search Engines,http://www.ntis.gov/products/ntrl/
+beta,Open Data Certificates (beta),Search Engines,https://certificates.theodi.org/en/datasets
+OpenDataNetwork,OpenDataNetwork - A search engine of all Socrata powered data portals,Search Engines,http://www.opendatanetwork.com/
+Statista.com,Statista.com - statistics and Studies,Search Engines,http://www.statista.com/
+Zenodo,Zenodo - An open dependable home for the long-tail of science,Search Engines,https://zenodo.org/collection/datasets
+72 hours #gamergate,72 hours #gamergate Twitter Scrape,Social Networks,http://waxy.org/random/misc/gamergate_tweets.csv
+Ancestry.com Forum Dataset,Ancestry.com Forum Dataset over 10 years,Social Networks,http://www.cs.cmu.edu/~jelsas/data/ancestry.com/
+Cheng-Caverlee-Lee September 2009,Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape,Social Networks,https://archive.org/details/twitter_cikm_2010
+CMU Enron Email,CMU Enron Email of 150 users,Social Networks,http://www.cs.cmu.edu/~enron/
+EDRM Enron EMail,"EDRM Enron EMail of 151 users, hosted on S3",Social Networks,https://aws.amazon.com/datasets/enron-email-data/
+Facebook Data Scrape (2005),Facebook Data Scrape (2005),Social Networks,https://archive.org/details/oxford-2005-facebook-matrix
+since 2007,Facebook Social Networks from LAW (since 2007),Social Networks,http://law.di.unimi.it/datasets.php
+Foursquare from UMN/Sarwat (2013),Foursquare from UMN/Sarwat (2013),Social Networks,https://archive.org/details/201309_foursquare_dataset_umn
+GetGlue,GetGlue - users rating TV shows,Social Networks,http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz
+GitHub Collaboration Archive,GitHub Collaboration Archive,Social Networks,https://www.githubarchive.org/
+Google Scholar citation relations,Google Scholar citation relations,Social Networks,http://www3.cs.stonybrook.edu/~leman/data/gscholar.db
+High-Resolution Contact Networks,High-Resolution Contact Networks from Wearable Sensors,Social Networks,http://www.sociopatterns.org/datasets/
+Mobile Social Networks,Mobile Social Networks from UMASS,Social Networks,https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks
+Network Twitter Data,Network Twitter Data,Social Networks,http://snap.stanford.edu/data/higgs-twitter.html
+Reddit Comments,Reddit Comments,Social Networks,https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+Skytrax' Air Travel,Skytrax' Air Travel Reviews Dataset,Social Networks,https://github.com/quankiquanki/skytrax-reviews-dataset
+Social Twitter Data,Social Twitter Data,Social Networks,http://snap.stanford.edu/data/egonets-Twitter.html
+SourceForge.net Research Data,SourceForge.net Research Data,Social Networks,http://www3.nd.edu/~oss/Data/data.html
+Twitter Data for,Twitter Data for Sentiment Analysis,Social Networks,http://help.sentiment140.com/for-students/
+Twitter Data for,Twitter Data for Online Reputation Management,Social Networks,http://nlp.uned.es/replab2013/
+Twitter Graph of,Twitter Graph of entire Twitter site,Social Networks,http://an.kaist.ac.kr/traces/WWW2010.html
+Twitter Scrape Calufa,Twitter Scrape Calufa May 2011,Social Networks,http://archive.org/details/2011-05-calufa-twitter-sql
+UNIMI/LAW Social Network Datasets,UNIMI/LAW Social Network Datasets,Social Networks,http://law.di.unimi.it/datasets.php
+Yahoo! Graph and,Yahoo! Graph and Social Data,Social Networks,http://webscope.sandbox.yahoo.com/catalog.php?datatype=g
+Youtube Video Social,"Youtube Video Social Graph in 2007,2008",Social Networks,http://netsg.cs.sfu.ca/youtubedata/
+Armed Conflict Location & Event Data Project,ACLED (Armed Conflict Location & Event Data Project),Social Sciences,http://www.acleddata.com/
+Canadian Legal Information Institute,Canadian Legal Information Institute,Social Sciences,https://www.canlii.org/en/index.php
+Center for Systemic Peace Datasets,"Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc",Social Sciences,http://www.systemicpeace.org/
+Correlates of War Project,Correlates of War Project,Social Sciences,http://www.correlatesofwar.org/
+Cryptome Conspiracy Theory Items,Cryptome Conspiracy Theory Items,Social Sciences,http://cryptome.org
+Datacards,Datacards,Social Sciences,http://datacards.org
+European Social Survey,European Social Survey,Social Sciences,http://www.europeansocialsurvey.org/data/
+FBI Hate Crime 2013,FBI Hate Crime 2013 - aggregated data,Social Sciences,https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013
+GDELT Global Events Database,GDELT Global Events Database,Social Sciences,http://gdeltproject.org/data.html
+GSS,General Social Survey (GSS) since 1972,Social Sciences,http://gss.norc.org
+German Social Survey,German Social Survey,Social Sciences,http://www.gesis.org/en/home/
+Global Religious Futures Project,Global Religious Futures Project,Social Sciences,http://www.globalreligiousfutures.org/
+Humanitarian Data Exchange,Humanitarian Data Exchange,Social Sciences,https://data.hdx.rwlabs.org/
+Institute for Demographic Studies,Institute for Demographic Studies,Social Sciences,http://www.ined.fr/en/
+International Networks Archive,International Networks Archive,Social Sciences,http://www.princeton.edu/~ina/
+International Social Survey,International Social Survey Program ISSP,Social Sciences,http://www.issp.org
+International Studies Compendium Project,International Studies Compendium Project,Social Sciences,http://www.isacompendium.com/public/
+James McGuire Cross,James McGuire Cross National Data,Social Sciences,http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/
+MacroData Guide by,MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste,Social Sciences,http://nsd.uib.no
+Minnesota Population Center,Minnesota Population Center,Social Sciences,https://www.ipums.org/
+MIT Reality Mining Dataset,MIT Reality Mining Dataset,Social Sciences,http://realitycommons.media.mit.edu/realitymining.html
+Open Crime and,"Open Crime and Policing Data in England, Wales and Northern Ireland",Social Sciences,https://data.police.uk/data/
+Paul Hensel General,Paul Hensel General International Data Page,Social Sciences,http://www.paulhensel.org/dataintl.html
+PewResearch Internet Survey Project,PewResearch Internet Survey Project,Social Sciences,http://www.pewinternet.org/datasets/pages/2/
+PewResearch Society Data Collection,PewResearch Society Data Collection,Social Sciences,http://www.pewresearch.org/data/download-datasets/
+Political Polarity Data,Political Polarity Data,Social Sciences,http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip
+StackExchange Data Explorer,StackExchange Data Explorer,Social Sciences,http://data.stackexchange.com/help
+Terrorism Research and,Terrorism Research and Analysis Consortium,Social Sciences,http://www.trackingterrorism.org/
+Texas Inmates Executed,Texas Inmates Executed Since 1984,Social Sciences,http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html
+,,Social Sciences,https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets
+D-Lab,UCB's Archive of Social Science Data (D-Lab),Social Sciences,http://ucdata.berkeley.edu/
+Uppsala Conflict Data Program,Uppsala Conflict Data Program,Social Sciences,http://ucdp.uu.se/
+UCLA Social Sciences,UCLA Social Sciences Data Archive,Social Sciences,http://dataarchives.ss.ucla.edu/Home.DataPortals.htm
+UN Civil Society Database,UN Civil Society Database,Social Sciences,http://esango.un.org/civilsociety/
+Universities Worldwide,Universities Worldwide,Social Sciences,http://univ.cc/
+UPJOHN for Labor,UPJOHN for Labor Employment Research,Social Sciences,http://www.upjohn.org/services/resources/employment-research-data-center
+World Bank Data,World Bank Data,Social Sciences,http://data.worldbank.org/
+WorldPop project,WorldPop project - Worldwide human population distributions,Social Sciences,http://www.worldpop.org.uk/data/get_data/
+FLOSSmole data about,"FLOSSmole data about free, libre, and open source software development",Software,http://flossdata.syr.edu/data/
+NBA/NCAA/Euro,Basketball (NBA/NCAA/Euro) Player Database and Statistics,Sports,http://www.draftexpress.com/stats.php
+Betfair Historical Exchange Data,Betfair Historical Exchange Data,Sports,http://data.betfair.com/
+cricket,Cricsheet Matches (cricket),Sports,http://cricsheet.org/
+API,"Ergast Formula 1, from 1950 up to date (API)",Sports,http://ergast.com/mrd/db
+data and APIs,Football/Soccer resources (data and APIs),Sports,http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+Lahman's Baseball Database,Lahman's Baseball Database,Sports,http://www.seanlahman.com/baseball-archive/statistics/
+Pinhooker: Thoroughbred Bloodstock,Pinhooker: Thoroughbred Bloodstock Sale Data,Sports,https://github.com/phillc73/pinhooker
+Retrosheet Baseball Statistics,Retrosheet Baseball Statistics,Sports,http://www.retrosheet.org/game.htm
+Databanks International Cross,Databanks International Cross National Time Series Data Archive,Time Series,http://www.cntsdata.com
+Hard Drive Failure Rates,Hard Drive Failure Rates,Time Series,https://www.backblaze.com/hard-drive-test-data.html
+Heart Rate Time,Heart Rate Time Series from MIT,Time Series,http://ecg.mit.edu/time-series/
+TSDL,Time Series Data Library (TSDL) from MU,Time Series,https://datamarket.com/data/list/?q=provider:tsdl
+UC Riverside Time,UC Riverside Time Series Dataset,Time Series,http://www.cs.ucr.edu/~eamonn/time_series_data/
+Airlines OD Data 1987-2008,Airlines OD Data 1987-2008,Transportation,http://stat-computing.org/dataexpo/2009/the-data.html
+Bay Area Bike,Bay Area Bike Share Data,Transportation,http://www.bayareabikeshare.com/open-data
+BSS,Bike Share Systems (BSS) collection,Transportation,https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems
+GeoLife GPS Trajectory,GeoLife GPS Trajectory from Microsoft Research,Transportation,http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/
+German train system,German train system by Deutsche Bahn,Transportation,http://data.deutschebahn.com/datasets/
+Hubway Million Rides,Hubway Million Rides in MA,Transportation,http://hubwaydatachallenge.org/trip-history-data/
+Marine Traffic,"Marine Traffic - ship tracks, port calls and more",Transportation,http://www.marinetraffic.com/de/ais-api-services
+Montreal BIXI Bike Share,Montreal BIXI Bike Share,Transportation,https://montreal.bixi.com/donn%C3%A9es-libre-service
+NYC Taxi Trip,NYC Taxi Trip Data 2009-,Transportation,http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+FOIA/FOILed,NYC Taxi Trip Data 2013 (FOIA/FOILed),Transportation,https://archive.org/details/nycTaxiTripData2013
+NYC Uber trip,NYC Uber trip data April 2014 to September 2014,Transportation,https://github.com/fivethirtyeight/uber-tlc-foil-response
+Open Traffic collection,Open Traffic collection,Transportation,https://github.com/graphhopper/open-traffic-collection
+OpenFlights,"OpenFlights - airport, airline and route data",Transportation,http://openflights.org/data.html
+JSON,Philadelphia Bike Share Stations (JSON),Transportation,https://www.rideindego.com/stations/json/
+"Plane Crash Database,","Plane Crash Database, since 1920",Transportation,http://www.planecrashinfo.com/database.htm
+RITA Airline On-Time,RITA Airline On-Time Performance data,Transportation,http://www.transtats.bts.gov/Tables.asp?DB_ID=120
+TranStat,RITA/BTS transport data collection (TranStat),Transportation,http://www.transtats.bts.gov/DataIndex.asp
+XML file,Toronto Bike Share Stations (XML file),Transportation,http://www.bikesharetoronto.com/data/stations/bikeStations.xml
+TFL,Transport for London (TFL),Transportation,https://tfl.gov.uk/info-for/open-data-users/data-feeds
+TTS,Travel Tracker Survey (TTS) for Chicago,Transportation,http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey
+BTS,U.S. Bureau of Transportation Statistics (BTS),Transportation,http://www.rita.dot.gov/bts/
+U.S. Domestic Flights,U.S. Domestic Flights 1990 to 2009,Transportation,http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a
+U.S. Freight Analysis,U.S. Freight Analysis Framework since 2007,Transportation,http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
+Data Packaged Core Datasets,Data Packaged Core Datasets,Complementary Collections,https://github.com/datasets/
+Database of Scientific,Database of Scientific Code Contributions,Complementary Collections,https://mozillascience.org/collaborate
+,,Complementary Collections,http://www.datawrangling.com/some-datasets-available-on-the-web
+,,Complementary Collections,http://www.inside-r.org/howto/finding-data-internet
+,,Complementary Collections,http://opendatamonitor.eu
+,,Complementary Collections,http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+,,Complementary Collections,http://rs.io/100-interesting-data-sets-for-statistics/
+,,Complementary Collections,http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
